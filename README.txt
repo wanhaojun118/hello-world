@@ -1,4 +1,4 @@
 <?php 
-	echo "Hello moon";
+	echo "Hello sun";
 
 ?>
